@@ -12,6 +12,8 @@ We can see the the website is just a note creating site that contain links to no
 
 ![image](https://user-images.githubusercontent.com/56489087/139527977-b20ce664-e0bd-4232-8aba-fa420a6dce55.png)
 
+![image](https://user-images.githubusercontent.com/56489087/139559842-f00282c3-e56e-473d-aad1-764fbd0cf87e.png)
+
 
 ## Addnote.php
 
