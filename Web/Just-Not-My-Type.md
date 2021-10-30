@@ -1,8 +1,6 @@
 # Just Not My Type
 
 > Tags: web, php  
-> Points: 200  
-> Solves: 399
 
 ## Challenge Description
 
