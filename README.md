@@ -2,6 +2,8 @@
 
 > Author: excitedcactus
 
+CTF Time: https://ctftime.org/team/168545
+
 
 # doge
 
